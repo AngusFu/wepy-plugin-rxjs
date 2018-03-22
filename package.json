@@ -1,6 +1,6 @@
 {
   "name": "wepy-plugin-rxjs",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A wepy plugin for patching RxJS.",
   "main": "lib/index.js",
   "scripts": {
