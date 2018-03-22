@@ -17,10 +17,7 @@
     "url": "https://github.com/AngusFu/wepy-plugin-rxjs/issues"
   },
   "homepage": "https://github.com/AngusFu/wepy-plugin-rxjs#readme",
-  "devDependencies": {
-    "rollup": "0.51",
-    "rollup-plugin-buble": "^0.14.0"
-  },
+  "devDependencies": {},
   "dependencies": {
     "wepy-async-function": "^1.4.5"
   }
