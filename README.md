@@ -12,7 +12,7 @@ yarn add --dev wepy-plugin-rxjs
 
 ## Configuration
 
-Edit your `wepy.config.js`：
+Append following code in your `wepy.config.js`:
 
 ```
 module.exports.plugins = module.exports.plugins || {}
